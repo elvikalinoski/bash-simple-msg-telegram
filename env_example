@@ -1,0 +1,10 @@
+# ===== CONFIG TELEGRAM ===== 
+CMD="curl --location --request POST "
+URL="https://api.telegram.org/"
+# ===== CONFIG TELEGRAM ===== 
+
+# ===== CHAT VALUES ===== 
+ID=""
+TAG_ID=""
+CHAT_ID=""
+# ===== CHAT VALUES ===== 
